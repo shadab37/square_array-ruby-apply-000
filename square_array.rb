@@ -1,4 +1,4 @@
 def square_array(numbers)
-  unsquared =[]
+  new numbers=[]
   array
 end
