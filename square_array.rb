@@ -4,4 +4,4 @@ def square_array(numbers)
     new_numbers << (num * num)
 end
 
-return
+return new_numbers
